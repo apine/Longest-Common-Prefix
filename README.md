@@ -15,7 +15,7 @@ Please follow [Go’s official document](https://golang.org/doc/install) to inst
 # Usage
 There are two source code files, one for each algorithm. Both programs take
 input from the command line parameter and output the result to **STDOUT**.
-The input file formart please refer to the sample input, *50.txt*.
+The input file formart please refer to the sample input, [50.txt](https://github.com/apine/Longest-Common-Prefix/blob/master/50.txt).
 
 For brute force algorithm:
 ```
